@@ -2,5 +2,5 @@ advertools
 adviz
 pandas
 plotly
-import searchconsole
+searchconsole
 dash_bootstrap_templates
